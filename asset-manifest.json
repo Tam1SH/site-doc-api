@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/site-doc-api/static/css/main.cdc2df30.css",
-    "main.js": "/site-doc-api/static/js/main.fb96532a.js",
-    "index.html": "/site-doc-api/index.html",
-    "main.cdc2df30.css.map": "/site-doc-api/static/css/main.cdc2df30.css.map",
-    "main.fb96532a.js.map": "/site-doc-api/static/js/main.fb96532a.js.map"
+    "main.css": "/BEbraEngine/static/css/main.cdc2df30.css",
+    "main.js": "/BEbraEngine/static/js/main.fb96532a.js",
+    "index.html": "/BEbraEngine/index.html",
+    "main.cdc2df30.css.map": "/BEbraEngine/static/css/main.cdc2df30.css.map",
+    "main.fb96532a.js.map": "/BEbraEngine/static/js/main.fb96532a.js.map"
   },
   "entrypoints": [
     "static/css/main.cdc2df30.css",
